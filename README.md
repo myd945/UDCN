@@ -31,3 +31,14 @@ MEF Dataset[BaiduPan](https://pan.baidu.com/s/1dZ4_4TSgVwD-5KEdlymmcg) 提取码
 ## Code
 
 The source code will be available after the paper is published.
+
+## Cite
+    @ARTICLE{9757816,
+    author={Jiang, Qiuping and Mao, Yudong and Cong, Runmin and Ren, Wenqi and Huang, Chao and Shao, Feng},
+    journal={IEEE Transactions on Intelligent Transportation Systems}, 
+    title={Unsupervised Decomposition and Correction Network for Low-Light Image Enhancement}, 
+    year={2022},
+    volume={},
+    number={},
+    pages={1-16},
+    doi={10.1109/TITS.2022.3165176}}
